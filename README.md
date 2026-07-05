@@ -3,8 +3,15 @@
 #profile-update-interval: 1
 #subscription-update-interval: 1
 #announce:Нажмите 🔄,затем ⏱️ и выберите сервер с наименьшим показателем пинга (мс) Для корректной работы впн обнови happ
-#support-url: https://wa.me/79194751229
-#profile-web-page-url: https://wa.me/79194751229
+#support-url: https://wa.me/79635940294
+#profile-web-page-url: https://wa.me/79635940294
+#sort-order: ping
+#subscription-pin: 1
+#subscriptions-collapse: 0
+#hide-settings: 1
+#per-app-proxy-mode: bypass
+
+
 
 vless://ac107686-cec5-48c1-91d5-56c8274b5471@176.109.94.202:9443?path=%2Fws&security=tls&encryption=none&fp=qq&type=ws&sni=mms-2tets.hysteria.ltd#🇳🇱 Vera-vpn 1?serverDescription=0JDQstGC0L4t0JLRi9Cx0L7RgA==
 trojan://p8_xGsY7BZZfHa7reyoM0uFSVyyYKENK@185.22.234.32:9443?security=tls&headerType=none&fp=qq&type=tcp&sni=beng.hysteria.ltd#🇳🇱 Vera-vpn 2?serverDescription=0JDQstGC0L4t0JLRi9Cx0L7RgA==
